@@ -1,0 +1,1 @@
+1. Add a functionality to not allow weak passwords such as '123abc', 'hello' & etc
